@@ -9,9 +9,9 @@ A pomodoro timer is used to break work into intervals, typically 25 minutes in l
 
 ## Features
 
--user can manually set the time
--when time is up a ringtone plays alerting the user the time is up
--the ring turns from green to red when the time is up
+- user can manually set the time
+- when time is up a ringtone plays alerting the user the time is up
+- the ring turns from green to red when the time is up
 
 ## Lessons Learned
 
